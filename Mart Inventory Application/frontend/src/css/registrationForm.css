@@ -1,0 +1,85 @@
+.App {
+    text-align: center;
+  }
+  
+  .maindiv{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 90px 0 90px 0;
+    background-image: url('../image/choose-right-Inventory-Management-Software.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    height: 800px;
+  }
+  
+  .subdiv{
+    display: flex;
+    justify-content: center;
+    height: 650px;
+    width: 40%;
+    box-shadow: 8px 10px 8px green;
+    background-color: white;
+    border-radius: 50px;
+  }
+  
+  .img{
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .img-container{
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+    width: 120px;
+    height: 120px
+  }
+  
+  .profile{
+    width: 120px;
+    height: 120px
+  }
+  
+  .login{
+    color: green;
+    padding: 15px 0 15px 0;
+  }
+  
+  .desc{
+      font-size: 20px;
+      display: flex;
+      justify-content: left;
+      /* text-align: left; */
+  }
+
+  .descbutton{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    /* text-align: left; */
+}
+  
+  .textbox{
+    border-radius: 13px;
+    height: 25px;
+  }
+  
+  #btn{
+    width: 100%;
+    color: white;
+    padding: 10px;
+    background-color: green;
+    border-radius: 20px;
+    font-size: 20px;
+  }
+
+  .descimg{
+    font-size: 20px;
+  }
+
+  .imgfile{
+    padding-left: 90px;
+  }

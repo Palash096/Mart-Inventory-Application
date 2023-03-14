@@ -1,0 +1,12 @@
+.basecomponent{
+    background-image: url('../image/inventory_management.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    height: 760px;
+}
+
+.dashboard{
+    color: white;
+    align-items: center;
+}
